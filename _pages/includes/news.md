@@ -1,11 +1,11 @@
 # 🔥 News
-- *2026.02*: 🎉 One paper is accepted by **CVPR 2026** (CCF-A)!
-- *2026.01*: 🎉 One paper is accepted by **ACL 2026** (CCF-A)!
-- *2025.10*: 🎉 One paper is accepted by **NeurIPS 2025** (CCF-A)!
-- *2025.07*: 🎉 One paper is accepted by **ACL 2025** (CCF-A)!
-- *2025.07*: 🎉 One paper is accepted by **ACM MM 2025** (CCF-A)!
-- *2025.05*: 🎉 One paper is accepted by **CVIU 2025** (CCF-B)!
-- *2025.04*: 🎉 One paper is accepted by **EMNLP 2025** (CCF-B)!
+- *2026.04*: 🎉 three papers are accepted by **ACL 2026**!
+- *2026.02*: 🎉 One paper is accepted by **CVPR 2026**!
+- *2026.01*: 🎉 One paper is accepted by **CVIU 2025**!
+- *2025.09*: 🎉 One paper is accepted by **NeurIPS 2025**!
+- *2025.08*: 🎉 One paper is accepted by **EMNLP 2025**!
+- *2025.07*: 🎉 One paper is accepted by **ACM MM 2025**!
+- *2025.04*: 🎉 One paper is accepted by **ACL 2025**!
 - *2024.10*: I start my one-year visiting at **A*STAR**, Singapore.
-- *2024.01*: 🎉 One paper is accepted by **IEEE TIP 2024** (CCF-A)!
-- *2023.03*: 🎉 One paper is accepted by **IEEE TCSVT 2023** (CCF-B)!
+- *2024.01*: 🎉 One paper is accepted by **IEEE TIP 2024**!
+- *2023.03*: 🎉 One paper is accepted by **IEEE TCSVT 2023**!
