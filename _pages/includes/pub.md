@@ -2,6 +2,8 @@
 
 *†: Corresponding Author*
 
+📊 **已发表16篇论文，其中第一作者/学生一作9篇，通讯作者2篇，第一作者CCF-A类论文6篇**
+
 ### 📌 First-Author Publications (一作文章)
 
   - [Beyond Layer-Wise Merging: Chain-of-Merging for Vision-Language Models], **Xinyu Zhang**, Yuxuan Dong, Lingling Zhang, Chengyou Jia, Zhuohang Dang, YiXing Yao, Yaqiang Wu, Basura Fernando, Jun Liu, **CVPR 2026** (CCF-A)
@@ -27,5 +29,5 @@
   - [Evochart: A Benchmark and a Self-Training Approach towards Real-World Chart Understanding](https://arxiv.org/abs/2409.01577), Muye Huang, Han Lai, **Xinyu Zhang**, Wenjun Wu, Jie Ma, Lingling Zhang, Jun Liu, **AAAI 2025** (CCF-A)
   - [VProChart: Answering Chart Question through Visual Perception Alignment Agent and Programmatic Solution Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/32384), Muye Huang, Lingling Zhang, Han Lai, Wenjun Wu, **Xinyu Zhang**, Jun Liu, **AAAI 2025** (CCF-A)
   - [Cog-DQA: Chain-of-Guiding Learning with Large Language Models for Diagram Question Answering](https://www.computer.org/csdl/proceedings-article/cvpr/2024/530000n969/20hLZnSMFQ4), Shaowei Wang, Lingling Zhang, Longji Zhu, Tao Qin, Kim-Hui Yap, **Xinyu Zhang**, Jun Liu, **CVPR 2024** (CCF-A)
-  - [Alignment-Guided Self-Supervised Learning for Diagram Question Answering](https://ieeexplore.ieee.org/document/10812784/), Shaowei Wang, Lingling Zhang, Wenjun Wu, Tao Qin, **Xinyu Zhang**, Jun Liu, **IEEE TMM 2024** (CCF-B)
-  - [Diagram Visual Grounding: Learning to See with Gestalt-Perceptual Attention](https://www.ijcai.org/proceedings/2023/0093.pdf), Xin Hu, Lingling Zhang, Jun Liu, **Xinyu Zhang**, Wenjun Wu, Qianying Wang, **IJCAI 2023** (CCF-A)
+  - [Alignment-Guided Self-Supervised Learning for Diagram Question Answering](https://ieeexplore.ieee.org/document/10812784/), Shaowei Wang, Lingling Zhang, Wenjun Wu, Tao Qin, **Xinyu Zhang**, Jun Liu, **IEEE TMM 2024** (CCF-A)
+  - [Diagram Visual Grounding: Learning to See with Gestalt-Perceptual Attention](https://www.ijcai.org/proceedings/2023/0093.pdf), Xin Hu, Lingling Zhang, Jun Liu, **Xinyu Zhang**, Wenjun Wu, Qianying Wang, **IJCAI 2023** (CCF-B)

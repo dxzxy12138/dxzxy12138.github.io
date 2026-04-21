@@ -1,7 +1,10 @@
-# 📖 Educations
-- *2021.09 - 2026.06 (Expected)*, Ph.D., Computer Science and Technology, Xi'an Jiaotong University.
-- *2017.08 - 2021.07*, Undergraduate, Computer Science and Technology, Xi'an Jiaotong University. (Minor in Automation)
+# 📖 教育背景
+- *2021.09 - 2026.06*，博士，计算机科学与技术，西安交通大学
+- *2017.08 - 2021.07*，本科，计算机科学与技术，西安交通大学（辅修：自动化）
 
-# 💻 Research Experience
-- *2024.10 - 2025.10*, Visiting Student, **A*STAR (CFAR)** & **NUS**, Singapore.
-- *2019.07 - 2021.07*, Undergraduate Researcher, XJTU-Huawei Cloud Elite Class.
+# 💻 研究经历
+- *2024.10 - 2025.10*，访问学生，新加坡科研局 (A*STAR) & 新加坡国立大学 (NUS)
+- *2019.07 - 2021.07*，实习生，西安交大-华为云菁英班
+
+# 🎖️ 学生任职
+- *2023.11 - 2024.11*，主席，中国计算机学会 (CCF) 西安交通大学学生分会
