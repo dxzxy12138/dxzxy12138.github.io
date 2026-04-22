@@ -33,18 +33,38 @@
 
 <script>
 function switchLanguage(lang) {
-    // Hide all language contents
-    document.getElementById('intro-zh').style.display = 'none';
-    document.getElementById('intro-en').style.display = 'none';
+    // 根据语言选择要显示和隐藏的类
+    const showClass = 'lang-' + lang;
+    const hideClass = lang === 'zh' ? 'lang-en' : 'lang-zh';
 
-    // Show the selected language content
-    document.getElementById('intro-' + lang).style.display = 'block';
+    // 遍历所有需要隐藏的元素并设置 display: 'none'
+    document.querySelectorAll('.' + hideClass).forEach(el => {
+        el.style.display = 'none';
+    });
 
-    // Update active state on buttons
-    document.querySelector('.lang-btn[onclick="switchLanguage(\'zh\')"]').classList.remove('active');
-    document.querySelector('.lang-btn[onclick="switchLanguage(\'en\')"]').classList.remove('active');
+    // 遍历所有需要显示的元素并设置 display: 'block' 或 'inline'
+    document.querySelectorAll('.' + showClass).forEach(el => {
+        // 如果元素是 span，则使用 inline，否则使用 block
+        el.style.display = (el.tagName.toLowerCase() === 'span') ? 'inline' : 'block';
+    });
+
+    // 更新按钮的激活状态
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+        btn.classList.remove('active');
+    });
     document.querySelector('.lang-btn[onclick="switchLanguage(\'' + lang + '\')"]').classList.add('active');
 }
+
+// 页面加载完成后，默认显示中文
+document.addEventListener('DOMContentLoaded', function() {
+    // 初始加载时，默认显示中文，隐藏英文
+    document.querySelectorAll('.lang-en').forEach(el => {
+        el.style.display = 'none';
+    });
+    document.querySelectorAll('.lang-zh').forEach(el => {
+        el.style.display = (el.tagName.toLowerCase() === 'span') ? 'inline' : 'block';
+    });
+});
 </script>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>

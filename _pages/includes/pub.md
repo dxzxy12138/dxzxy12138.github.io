@@ -2,7 +2,7 @@
 
 *†: Corresponding Author*
 
-📊 **已发表16篇论文，其中第一作者/学生一作9篇，通讯作者2篇，第一作者CCF-A类论文6篇**
+📊 <span class="lang-zh">**已发表16篇论文，其中第一作者/学生一作9篇，通讯作者2篇，第一作者CCF-A类论文6篇**</span><span class="lang-en">**Published 16 papers, including 9 as first/student first author, 2 as corresponding author, and 6 first-author CCF-A papers.**</span>
 
 ### 📌 First-Author Publications (一作文章)
 

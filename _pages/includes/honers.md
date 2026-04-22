@@ -1,4 +1,7 @@
-# 🎖 Honors and Awards
+<h1 class="lang-zh">🎖 荣誉奖项</h1>
+<h1 class="lang-en">🎖 Honors and Awards</h1>
+
+<div class="lang-zh">
 - *2024-2025* 西安交通大学特等奖学金、比亚迪奖学金
 - *2023-2024* 西安交通大学特等奖学金、优秀研究生干部
 - *2019-2021* 西交大-华为云菁英班奖学金
@@ -7,3 +10,15 @@
 - *2019* 全国大学生数学建模竞赛 国家二等奖
 - *2018-2019* 三星奖学金
 - *2017-2018* 江苏汾湖科技创新奖学金
+</div>
+
+<div class="lang-en" style="display:none;">
+- *2024-2025* Special Scholarship of Xi'an Jiaotong University, BYD Scholarship
+- *2023-2024* Special Scholarship of Xi'an Jiaotong University, Outstanding Graduate Student Cadre
+- *2019-2021* XJTU-Huawei Cloud AI Elite Class Scholarship
+- *2020* MCM/ICM Contest in Modeling, Finalist
+- *2020* Intel Parallel Application Challenge, National Silver Award
+- *2019* Contemporary Undergraduate Mathematical Contest in Modeling, National Second Prize
+- *2018-2019* Samsung Scholarship
+- *2017-2018* Jiangsu Fenhu Science and Technology Innovation Scholarship
+</div>
