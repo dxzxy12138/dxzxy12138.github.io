@@ -1,7 +1,7 @@
 <h1 class="lang-zh">🎖 荣誉奖项</h1>
 <h1 class="lang-en">🎖 Honors and Awards</h1>
 
-<div class="lang-zh">
+<div class="lang-zh" markdown="1">
 - *2024-2025* 西安交通大学特等奖学金、比亚迪奖学金
 - *2023-2024* 西安交通大学特等奖学金、优秀研究生干部
 - *2019-2021* 西交大-华为云菁英班奖学金
@@ -12,7 +12,7 @@
 - *2017-2018* 江苏汾湖科技创新奖学金
 </div>
 
-<div class="lang-en" style="display:none;">
+<div class="lang-en" style="display:none;" markdown="1">
 - *2024-2025* Special Scholarship of Xi'an Jiaotong University, BYD Scholarship
 - *2023-2024* Special Scholarship of Xi'an Jiaotong University, Outstanding Graduate Student Cadre
 - *2019-2021* XJTU-Huawei Cloud AI Elite Class Scholarship
