@@ -9,6 +9,44 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="assets/css/academicons.css"/>
 
+<style>
+.language-switcher {
+    margin-bottom: 15px;
+}
+.lang-btn {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 0.9em;
+}
+.lang-btn.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+.lang-btn:not(.active):hover {
+    background-color: #e0e0e0;
+}
+</style>
+
+<script>
+function switchLanguage(lang) {
+    // Hide all language contents
+    document.getElementById('intro-zh').style.display = 'none';
+    document.getElementById('intro-en').style.display = 'none';
+
+    // Show the selected language content
+    document.getElementById('intro-' + lang).style.display = 'block';
+
+    // Update active state on buttons
+    document.querySelector('.lang-btn[onclick="switchLanguage(\'zh\')"]').classList.remove('active');
+    document.querySelector('.lang-btn[onclick="switchLanguage(\'en\')"]').classList.remove('active');
+    document.querySelector('.lang-btn[onclick="switchLanguage(\'' + lang + '\')"]').classList.add('active');
+}
+</script>
+
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
