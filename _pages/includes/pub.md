@@ -12,14 +12,14 @@
   - [CoFFT: Chain of Foresight-Focus Thought for Visual Language Models](https://arxiv.org/abs/2509.22010), **Xinyu Zhang**, Yuxuan Dong, Lingling Zhang, Chengyou Jia, Zhuohang Dang, Basura Fernando, Jun Liu, Mike Zheng Shou, **NeurIPS 2025** (CCF-A)
   - [PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning](https://arxiv.org/abs/2502.12054), **Xinyu Zhang**, Yuxuan Dong, Yanrui Wu, Jiaxing Huang, Chengyou Jia, Basura Fernando, Mike Zheng Shou, Lingling Zhang, Jun Liu, **ACL 2025** (CCF-A)
   - [Cognitive Predictive Coding Network: Rethinking the Generalization in Raven's Progressive Matrices](https://dl.acm.org/doi/abs/10.1145/3746027.3755313), **Xinyu Zhang**, Lingling Zhang, Yanrui Wu, Muye Huang, Jun Liu, **ACM MM 2025** (CCF-A)
-  - [Memory-Enriched Thought-by-Thought Framework for Complex Diagram Question Answering](https://www.google.com/search?q=https://doi.org/10.1016/j.cviu.2025.104608), **Xinyu Zhang**, Lingling Zhang, Yanrui Wu, Shaowei Wang, Wenjun Wu, Muye Huang, Qianying Wang and Jun Liu, **CVIU 2025** (CCF-B)
+  - [Memory-Enriched Thought-by-Thought Framework for Complex Diagram Question Answering](https://doi.org/10.1016/j.cviu.2025.104608), **Xinyu Zhang**, Lingling Zhang, Yanrui Wu, Shaowei Wang, Wenjun Wu, Muye Huang, Qianying Wang and Jun Liu, **CVIU 2025** (CCF-B)
   - [Diagram-driven course questions generation](https://aclanthology.org/2025.emnlp-main.305/), **Xinyu Zhang**, Lingling Zhang, Yanrui Wu, Muye Huang, Wenjun Wu, Bo Li, Shaowei Wang, Basura Fernando, Jun Liu, **EMNLP 2025** (CCF-B)
   - [Alignment Relation is What You Need for Diagram Parsing](https://ieeexplore.ieee.org/document/10472414), **Xinyu Zhang**, Lingling Zhang, Xin Hu, Jun Liu, Shaowei Wang, Qianying Wang, **IEEE TIP 2024** (CCF-A)
 
 ### ✉️ Corresponding Author Publications (通讯文章)
 
   - [PhysPRM: A Generative Process Reward Model with Fine-grained Diagnosis for Physics Problem Solving], Yuxuan Dong, **Xinyu Zhang†**, Lingling Zhang, Han Lai, Pengyu Li, Bifan Wei, Yaqiang Wu, Jun Liu, **ACL 2026 Findings**
-  - [RPMG-FSS: Robust Prior Mask Guided Few-Shot Semantic Segmentation](https://www.google.com/search?q=https://ieeexplore.ieee.org/document/10093904), Lingling Zhang, **Xinyu Zhang†**, Qianying Wang, Wenjun Wu, Xiaojun Chang, Jun Liu, **IEEE TCSVT 2023** (CCF-B)
+  - [RPMG-FSS: Robust Prior Mask Guided Few-Shot Semantic Segmentation](https://ieeexplore.ieee.org/document/10093904), Lingling Zhang, **Xinyu Zhang†**, Qianying Wang, Wenjun Wu, Xiaojun Chang, Jun Liu, **IEEE TCSVT 2023** (CCF-B)
 
 ### 🤝 Co-Authored Publications (合作文章)
 
