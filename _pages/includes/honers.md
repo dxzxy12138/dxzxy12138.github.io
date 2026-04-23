@@ -8,8 +8,6 @@
 - *2020* 美国大学生数学建模竞赛 特等奖提名 (Finalist)
 - *2020* Intel 全国并行应用挑战赛 全国银奖
 - *2019* 全国大学生数学建模竞赛 国家二等奖
-- *2018-2019* 三星奖学金
-- *2017-2018* 江苏汾湖科技创新奖学金
 </div>
 
 <div class="lang-en" style="display:none;" markdown="1">
@@ -19,6 +17,4 @@
 - *2020* MCM/ICM Contest in Modeling, Finalist
 - *2020* Intel Parallel Application Challenge, National Silver Award
 - *2019* Contemporary Undergraduate Mathematical Contest in Modeling, National Second Prize
-- *2018-2019* Samsung Scholarship
-- *2017-2018* Jiangsu Fenhu Science and Technology Innovation Scholarship
 </div>
